@@ -56,7 +56,7 @@ Functions:
         * ft_lstmap - applies a function to each node of a list and creates a new list;
         * ft_lstlast - returns the last node;
         
- ## Make Commands
+ ## 3. Make Commands
 ```
 make all - creates the library
 make bonus - creates the library for bonus
