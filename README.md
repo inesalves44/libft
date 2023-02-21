@@ -57,3 +57,20 @@ Functions:
         * ft_lstlast - returns the last node;
         
  ## Make Commands
+```
+make all - creates the library
+make bonus - creates the library for bonus
+make clean - cleans the objects
+make fclean - cleans the library, also runs clean
+make re - runs clean and fclean and then runs all 
+make rebonus - runs clean and fclean and then runs bonus
+ ```
+As stated above this project creates a library that takeas all theobject files to then be used in a linker fase of another compilation.
+
+Basically to use the library you compile it like this:
+```
+cc -Wall -Werror -Wextra your_file.c libft.a
+```
+
+Thank you for reading!
+slack: idias-al
