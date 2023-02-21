@@ -65,7 +65,7 @@ make fclean - cleans the library, also runs clean
 make re - runs clean and fclean and then runs all 
 make rebonus - runs clean and fclean and then runs bonus
  ```
-As stated above this project creates a library that takeas all theobject files to then be used in a linker fase of another compilation.
+As stated above this project creates a library. This library is composed of object files that then are used in the linker fase of a compilation.
 
 Basically to use the library you compile it like this:
 ```
