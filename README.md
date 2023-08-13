@@ -4,7 +4,7 @@
 
 This project was the first project of the common core in 42 school!
 
-This project has the objective if creating a static library composed of useful functions that will help in the 42 curriculum. 
+This project has the objective of creating a static library composed of useful functions that will help in the 42 curriculum. 
 
 ## 2. The functions
 
